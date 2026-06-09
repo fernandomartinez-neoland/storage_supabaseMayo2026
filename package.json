@@ -1,0 +1,30 @@
+{
+  "name": "supabase",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000t\u0000o\u0000r\u0000a\u0000g\u0000e\u0000_\u0000s\u0000u\u0000p\u0000a\u0000b\u0000a\u0000s\u0000e\u0000M\u0000a\u0000y\u0000o\u00002\u00000\u00002\u00006\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandomartinez-neoland/storage_supabaseMayo2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/fernandomartinez-neoland/storage_supabaseMayo2026/issues"
+  },
+  "homepage": "https://github.com/fernandomartinez-neoland/storage_supabaseMayo2026#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.108.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "fs-extra": "^11.3.5",
+    "multer": "^2.1.1",
+    "nodemon": "^3.1.14"
+  }
+}
